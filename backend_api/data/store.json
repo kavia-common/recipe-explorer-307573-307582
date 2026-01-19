@@ -1,0 +1,160 @@
+{
+  "categories": [
+    {
+      "id": "breakfast",
+      "name": "Breakfast",
+      "description": "Start your day right."
+    },
+    {
+      "id": "lunch",
+      "name": "Lunch",
+      "description": "Quick and satisfying midday meals."
+    },
+    {
+      "id": "dinner",
+      "name": "Dinner",
+      "description": "Hearty meals for the evening."
+    },
+    {
+      "id": "dessert",
+      "name": "Dessert",
+      "description": "Sweet treats and indulgences."
+    },
+    {
+      "id": "snack",
+      "name": "Snack",
+      "description": "Light bites anytime."
+    }
+  ],
+  "recipes": [
+    {
+      "id": "r1",
+      "title": "Avocado Toast",
+      "description": "Creamy avocado on toasted bread with a bright, lemony finish.",
+      "category_id": "breakfast",
+      "ingredients": [
+        "bread",
+        "avocado",
+        "lemon",
+        "salt",
+        "pepper",
+        "chili flakes"
+      ],
+      "instructions": [
+        "Toast the bread.",
+        "Mash avocado with lemon, salt, and pepper.",
+        "Spread avocado on toast and top with chili flakes."
+      ],
+      "prep_minutes": 5,
+      "cook_minutes": 3,
+      "difficulty": "easy",
+      "image_url": null,
+      "avg_rating": 0.0,
+      "rating_count": 0
+    },
+    {
+      "id": "r2",
+      "title": "Greek Salad",
+      "description": "Crisp vegetables with feta and a simple olive oil dressing.",
+      "category_id": "lunch",
+      "ingredients": [
+        "cucumber",
+        "tomato",
+        "red onion",
+        "feta",
+        "olives",
+        "olive oil",
+        "oregano",
+        "salt",
+        "pepper"
+      ],
+      "instructions": [
+        "Chop vegetables into bite-size pieces.",
+        "Toss with olives and crumbled feta.",
+        "Dress with olive oil, oregano, salt, and pepper."
+      ],
+      "prep_minutes": 10,
+      "cook_minutes": 0,
+      "difficulty": "easy",
+      "image_url": null,
+      "avg_rating": 0.0,
+      "rating_count": 0
+    },
+    {
+      "id": "r3",
+      "title": "One-Pan Lemon Garlic Chicken",
+      "description": "Juicy chicken thighs roasted with lemon and garlic.",
+      "category_id": "dinner",
+      "ingredients": [
+        "chicken thighs",
+        "lemon",
+        "garlic",
+        "olive oil",
+        "salt",
+        "pepper"
+      ],
+      "instructions": [
+        "Preheat oven to 425°F (220°C).",
+        "Season chicken with salt and pepper.",
+        "Add garlic and lemon slices; drizzle with olive oil.",
+        "Roast for 30-35 minutes until cooked through."
+      ],
+      "prep_minutes": 10,
+      "cook_minutes": 35,
+      "difficulty": "medium",
+      "image_url": null,
+      "avg_rating": 0.0,
+      "rating_count": 0
+    },
+    {
+      "id": "r4",
+      "title": "Chocolate Yogurt Parfait",
+      "description": "A layered dessert-like parfait that's still light and refreshing.",
+      "category_id": "dessert",
+      "ingredients": [
+        "greek yogurt",
+        "cocoa powder",
+        "honey",
+        "granola",
+        "berries"
+      ],
+      "instructions": [
+        "Mix yogurt with cocoa powder and honey.",
+        "Layer yogurt with granola and berries in a glass.",
+        "Serve immediately."
+      ],
+      "prep_minutes": 7,
+      "cook_minutes": 0,
+      "difficulty": "easy",
+      "image_url": null,
+      "avg_rating": 0.0,
+      "rating_count": 0
+    },
+    {
+      "id": "r5",
+      "title": "Hummus & Veggie Plate",
+      "description": "A quick snack plate with crunchy vegetables and creamy hummus.",
+      "category_id": "snack",
+      "ingredients": [
+        "hummus",
+        "carrots",
+        "cucumber",
+        "bell pepper",
+        "pita"
+      ],
+      "instructions": [
+        "Slice vegetables.",
+        "Arrange with hummus and pita.",
+        "Enjoy."
+      ],
+      "prep_minutes": 8,
+      "cook_minutes": 0,
+      "difficulty": "easy",
+      "image_url": null,
+      "avg_rating": 0.0,
+      "rating_count": 0
+    }
+  ],
+  "favorites": {},
+  "ratings": []
+}
